@@ -20,14 +20,27 @@
     ]
   },
   "createdBy": {
+    "isDeleted": false,
+    "deletedAt": null,
     "_id": "6800a73454438765dcfd5e07",
     "name": "Tammam Alwafai",
+    "email": "tammam.wafai@gmail.com",
     "image": "https://avatars.githubusercontent.com/u/47179662?v=4",
-    "githubUsername": "1992tw"
+    "githubUsername": "1992tw",
+    "emailVerified": null,
+    "createdAt": "2025-04-17T07:01:08.468Z",
+    "isAdmin": true,
+    "courseCount": 96,
+    "lastLogin": "2025-07-08T18:03:49.196Z"
   },
-  "contributors": [],
+  "contributors": [
+    "685fece2f3ede8186bb3f80a",
+    "67fe9daf6a09b19bad9ee515",
+    "6864667b4b3a739e573c0e1d"
+  ],
   "status": "pending",
   "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/1992tw/google-veo-3-generative-ai-video",
   "createdAt": "2025-07-11T01:59:34.497Z",
-  "updatedAt": "2025-07-11T01:59:34.497Z"
+  "updatedAt": "2025-07-11T02:01:02.119Z"
 }
