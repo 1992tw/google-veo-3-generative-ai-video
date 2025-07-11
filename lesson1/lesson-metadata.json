@@ -2,14 +2,151 @@
   "id": "687070065b15093273df4a9f",
   "lessonNumber": 1,
   "title": "Introduction to Generative AI Video",
-  "status": "pending",
+  "status": "complete",
   "assignment": {
-    "title": "Assignment will be generated",
-    "objective": "Objective will be provided when lesson is generated",
-    "expectedCapabilities": [],
-    "instructions": [],
-    "tasks": [],
-    "submissionInstructions": "Submission instructions will be provided when lesson is generated"
+    "title": "Exploring Generative AI Video",
+    "objective": "Familiarize yourself with the concept of generative AI video and its applications.",
+    "expectedCapabilities": [
+      "Understand generative AI",
+      "Describe applications in video production"
+    ],
+    "submissionInstructions": "Submit your essay as a PDF file through the course portal.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Describe Generative AI Applications",
+        "description": "Write a brief essay describing how generative AI is currently applied in video production and its potential future uses.",
+        "codeExample": "N/A",
+        "_id": "687076305b15093273df4c3b"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Watch Supplemental Videos",
+            "description": "View the supplemental videos linked to deepen your understanding of generative AI applications.",
+            "codeExample": "N/A",
+            "_id": "687076305b15093273df4c39"
+          },
+          {
+            "taskNumber": 2,
+            "title": "Research Real-World Examples",
+            "description": "Find and summarize two real-world instances of generative AI in video production.",
+            "codeExample": "N/A",
+            "_id": "687076305b15093273df4c3a"
+          }
+        ],
+        "_id": "687076305b15093273df4c38"
+      }
+    ],
+    "checklist": [
+      "Watched Supplemental Videos",
+      "Completed Research",
+      "Essay Drafted",
+      "Essay Submitted"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "What is generative AI primarily used for in video production?",
+        "options": [
+          "Creating static content",
+          "Automating editing",
+          "Manual video manipulation"
+        ],
+        "answer": "Automating editing",
+        "_id": "687076305b15093273df4c36"
+      },
+      {
+        "question": "Provide one example of generative AI's use in video entertainment.",
+        "options": [
+          "Dynamic storytelling",
+          "Fixed imagery",
+          "Script analysis"
+        ],
+        "answer": "Dynamic storytelling",
+        "_id": "687076305b15093273df4c37"
+      }
+    ]
   },
-  "subsections": []
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "Understanding Generative AI",
+      "content": "Generative AI refers to the class of artificial intelligence algorithms used to generate new data and content based on training data. This technique can be applied to creating images, text, and even videos, shifting from consuming content to generating it algorithmically. Key benefits include creative efficiency and innovation, through which creators can develop unique content rapidly.",
+      "videoUrl": "http://video.com/understandingGenerativeAI",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://en.wikipedia.org/wiki/Generative_adversarial_network"
+      ],
+      "quizzes": [
+        {
+          "question": "What is the primary focus of generative AI?",
+          "options": [
+            "To generate new content",
+            "To analyze existing content",
+            "To curate data"
+          ],
+          "answer": "To generate new content",
+          "_id": "687076305b15093273df4c31"
+        }
+      ],
+      "_id": "687076305b15093273df4c30"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "Introduction to Google Veo 3",
+      "content": "Google Veo 3 is a cutting-edge tool designed specifically for creating AI-driven video content. It leverages generative AI techniques to help users craft dynamic videos. Google Veo 3 stands out for its intuitive interface and powerful AI capabilities, enabling users to produce high-quality video content without advanced technical knowledge.",
+      "videoUrl": "http://video.com/introductionToGoogleVeo3",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.google.com/veo3"
+      ],
+      "quizzes": [
+        {
+          "question": "Which feature makes Google Veo 3 user-friendly?",
+          "options": [
+            "Advanced coding abilities",
+            "Intuitive interface",
+            "Extensive scripting support"
+          ],
+          "answer": "Intuitive interface",
+          "_id": "687076305b15093273df4c33"
+        }
+      ],
+      "_id": "687076305b15093273df4c32"
+    },
+    {
+      "subsectionOrder": 3,
+      "title": "Applications of Generative AI in Video Production",
+      "content": "Generative AI is transforming video production by enabling features such as automated video editing, personalized content creation, and realistic simulations. In marketing, it can create tailored advertisements quickly. In education, it can generate interactive simulations, while in entertainment, it brings new storytelling techniques to life.",
+      "videoUrl": "http://video.com/applicationsOfGenerativeAIInVideo",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.forbes.com/sites/forbestechcouncil/2021/12/07"
+      ],
+      "quizzes": [
+        {
+          "question": "What is one application of generative AI in video production?",
+          "options": [
+            "Automated editing",
+            "Manual storyboarding",
+            "Traditional animation"
+          ],
+          "answer": "Automated editing",
+          "_id": "687076305b15093273df4c35"
+        }
+      ],
+      "_id": "687076305b15093273df4c34"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/generativeAIBasics"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Generative_adversarial_network",
+    "https://www.forbes.com/sites/forbestechcouncil/2021/12/07"
+  ]
 }
