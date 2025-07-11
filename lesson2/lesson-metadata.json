@@ -4,12 +4,167 @@
   "title": "Getting Started with Google Veo 3",
   "status": "pending",
   "assignment": {
-    "title": "Assignment will be generated",
-    "objective": "Objective will be provided when lesson is generated",
-    "expectedCapabilities": [],
-    "instructions": [],
-    "tasks": [],
-    "submissionInstructions": "Submission instructions will be provided when lesson is generated"
+    "title": "Create and Setup a Basic Project in Google Veo 3",
+    "objective": "Ensure learners can navigate the Google Veo 3 interface, set up a project, and import assets.",
+    "expectedCapabilities": [
+      "Navigate Veo 3 interface proficiently",
+      "Setup basic project with essential settings",
+      "Import and manage assets"
+    ],
+    "submissionInstructions": "Submit screenshots of the project setup and asset manager with imported items.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Initiate a New Project",
+        "description": "Set up a new project using a template and configure its basic settings.",
+        "codeExample": "N/A",
+        "_id": "687075165b15093273df4bc7"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Familiarize with Google Veo 3 Interface",
+            "description": "Watch the provided video on Veo 3 interface and familiarize yourself with different panels and tools.",
+            "codeExample": "N/A",
+            "_id": "687075165b15093273df4bc4"
+          },
+          {
+            "taskNumber": 2,
+            "title": "Setup Project",
+            "description": "Create a new project in Veo 3, choosing an appropriate template and setting project parameters like resolution and frame rate.",
+            "codeExample": "N/A",
+            "_id": "687075165b15093273df4bc5"
+          },
+          {
+            "taskNumber": 3,
+            "title": "Import Assets",
+            "description": "Import at least three different types of assets (image, audio, and video) into your project and organize them using the asset manager.",
+            "codeExample": "N/A",
+            "_id": "687075165b15093273df4bc6"
+          }
+        ],
+        "_id": "687075165b15093273df4bc3"
+      }
+    ],
+    "checklist": [
+      "Project Template Selected",
+      "Resolution & Frame Rate Set",
+      "Assets Imported",
+      "Interface Explored"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "What should you do first when starting a new project in Veo 3?",
+        "options": [
+          "Set canvas size",
+          "Select a project template",
+          "Import assets"
+        ],
+        "answer": "Select a project template",
+        "_id": "687075165b15093273df4bc0"
+      },
+      {
+        "question": "Where can you organize imported assets in Veo 3?",
+        "options": [
+          "Asset library",
+          "Timeline panel",
+          "Effects panel"
+        ],
+        "answer": "Asset library",
+        "_id": "687075165b15093273df4bc1"
+      },
+      {
+        "question": "What is a crucial aspect to consider when setting up project resolution?",
+        "options": [
+          "Video quality",
+          "Software version",
+          "RAM capacity"
+        ],
+        "answer": "Video quality",
+        "_id": "687075165b15093273df4bc2"
+      }
+    ]
   },
-  "subsections": []
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "Introduction to Google Veo 3 Interface",
+      "content": "Google Veo 3 offers an intuitive interface that enables users to quickly navigate and access various features required for generative AI video creation. This subsection will guide you through the primary components of the interface including navigation toolbars, asset library, and the project timeline.",
+      "videoUrl": "http://video.com/veo3InterfaceIntro",
+      "codeExamples": [],
+      "externalLinks": [
+        "http://support.google.com/veo3/interface"
+      ],
+      "quizzes": [
+        {
+          "question": "Which part of the interface contains the project timeline in Google Veo 3?",
+          "options": [
+            "Navigation toolbar",
+            "Asset library",
+            "Bottom panel"
+          ],
+          "answer": "Bottom panel",
+          "_id": "687075165b15093273df4bbb"
+        }
+      ],
+      "_id": "687075165b15093273df4bba"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "Setting Up Your First Project in Google Veo 3",
+      "content": "Setting up a new project in Google Veo 3 is straightforward. You start by selecting a template or starting from scratch, followed by defining key project settings such as resolution, frame rate, and canvas size. This subsection covers step-by-step how to initiate a new project and configure these settings.",
+      "videoUrl": "http://video.com/veo3ProjectSetup",
+      "codeExamples": [],
+      "externalLinks": [
+        "http://support.google.com/veo3/setup"
+      ],
+      "quizzes": [
+        {
+          "question": "What is the first step in setting up a project in Google Veo 3?",
+          "options": [
+            "Choosing a template",
+            "Setting canvas size",
+            "Selecting frame rate"
+          ],
+          "answer": "Choosing a template",
+          "_id": "687075165b15093273df4bbd"
+        }
+      ],
+      "_id": "687075165b15093273df4bbc"
+    },
+    {
+      "subsectionOrder": 3,
+      "title": "Importing Assets and Resources",
+      "content": "Assets such as images, audio files, and video clips are crucial for developing engaging video content. Learn how to import and organize assets efficiently using Google Veo 3's asset manager. This section also discusses supported file formats and tips for optimal asset management.",
+      "videoUrl": "http://video.com/importingAssetsVeo3",
+      "codeExamples": [],
+      "externalLinks": [
+        "http://support.google.com/veo3/importingAssets"
+      ],
+      "quizzes": [
+        {
+          "question": "Which of these is a supported file format for importing into Google Veo 3?",
+          "options": [
+            ".exe",
+            ".png",
+            ".csv"
+          ],
+          "answer": ".png",
+          "_id": "687075165b15093273df4bbf"
+        }
+      ],
+      "_id": "687075165b15093273df4bbe"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/veo3AdvancedIntro"
+  ],
+  "references": [
+    "https://support.google.com/veo3/docs",
+    "https://developer.google.com/veo3/guides"
+  ]
 }
