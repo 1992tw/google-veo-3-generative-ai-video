@@ -1,0 +1,33 @@
+{
+  "id": "687070065b15093273df4a9a",
+  "title": "Google Veo 3 Generative AI Video",
+  "description": "This course offers comprehensive insights into Google Veo 3 generative AI video software and its applications. It guides learners through the process of designing and creating AI-powered video content using the software.",
+  "learningObjectives": [
+    "Understand the concept of generative AI video",
+    "Familiarize with Google Veo 3 software",
+    "Write scripts for generative video",
+    "Apply generative AI video in real-world scenarios"
+  ],
+  "finalProjectDetails": {
+    "overview": "The final project requires learners to create a generative AI video using Google Veo 3.",
+    "planningResources": [
+      "Google Veo 3 scripting guide",
+      "Google Veo 3 tutorial videos"
+    ],
+    "submissionInstructions": "Submit the script and the video file through the online submission portal.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "_id": "6800a73454438765dcfd5e07",
+    "name": "Tammam Alwafai",
+    "image": "https://avatars.githubusercontent.com/u/47179662?v=4",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-11T01:59:34.497Z",
+  "updatedAt": "2025-07-11T01:59:34.497Z"
+}
