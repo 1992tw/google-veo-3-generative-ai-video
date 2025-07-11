@@ -39,7 +39,9 @@ Submit the script and the video file through the online submission portal.
 
 ## Contributors
 
-Course contributors will be listed here.
+- undefined
+- undefined
+- undefined
 
 ---
 

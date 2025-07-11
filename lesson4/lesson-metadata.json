@@ -1,15 +1,182 @@
 {
   "id": "687070065b15093273df4aa2",
   "lessonNumber": 4,
-  "title": "Real-world applications of Google Veo 3",
+  "title": "Real-world Applications of Google Veo 3",
   "status": "pending",
   "assignment": {
-    "title": "Assignment will be generated",
-    "objective": "Objective will be provided when lesson is generated",
-    "expectedCapabilities": [],
-    "instructions": [],
-    "tasks": [],
-    "submissionInstructions": "Submission instructions will be provided when lesson is generated"
+    "title": "Explore AI Video Applications in a Chosen Industry",
+    "objective": "Research and document how generative AI video is transforming a specific industry of your choice.",
+    "expectedCapabilities": [
+      "Research AI applications",
+      "Analyze industry trends",
+      "Synthesize information into a coherent report"
+    ],
+    "submissionInstructions": "Submit your report as a PDF document, ensuring clarity and comprehensive coverage of the topic.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Industry Report Creation",
+        "description": "Compile a detailed report on AI video applications in the chosen sector.",
+        "codeExample": "N/A",
+        "_id": "6870735f5b15093273df4b69"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Select an Industry",
+            "description": "Choose an industry where generative AI video has potential impact, such as healthcare, entertainment, or finance.",
+            "codeExample": "N/A",
+            "_id": "6870735f5b15093273df4b66"
+          },
+          {
+            "taskNumber": 2,
+            "title": "Research Applications",
+            "description": "Investigate how AI video is being used or how it could be used in the chosen industry.",
+            "codeExample": "N/A",
+            "_id": "6870735f5b15093273df4b67"
+          },
+          {
+            "taskNumber": 3,
+            "title": "Document Findings",
+            "description": "Prepare a detailed report on your findings, including potential benefits and challenges.",
+            "codeExample": "N/A",
+            "_id": "6870735f5b15093273df4b68"
+          }
+        ],
+        "_id": "6870735f5b15093273df4b65"
+      }
+    ],
+    "checklist": [
+      "Industry selected",
+      "Research conducted",
+      "Report written",
+      "Potential impacts analyzed"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "What impact does generative AI have on your chosen industry?",
+        "options": [
+          "Minimal impact",
+          "Revolutionary applications",
+          "Unknown effects"
+        ],
+        "answer": "Revolutionary applications",
+        "_id": "6870735f5b15093273df4b63"
+      },
+      {
+        "question": "How does AI video personalize content delivery?",
+        "options": [
+          "Adapts to viewer insights",
+          "Randomizes content",
+          "Limits accessibility"
+        ],
+        "answer": "Adapts to viewer insights",
+        "_id": "6870735f5b15093273df4b64"
+      }
+    ]
   },
-  "subsections": []
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "Introduction to Real-world Applications of Generative AI Video",
+      "content": "Explore the diverse settings in which generative AI video can be applied, ranging from marketing and advertising to education and entertainment. Understand the benefits and unique opportunities AI video creation presents in each sector.",
+      "videoUrl": "http://video.com/AIApplicationsOverview",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/generative-ai-the-next-big-step-in-every-sector/"
+      ],
+      "quizzes": [
+        {
+          "question": "Which of the following is NOT a typical application of generative AI video?",
+          "options": [
+            "Marketing",
+            "Automated Customer Service",
+            "Weather Forecasting"
+          ],
+          "answer": "Weather Forecasting",
+          "_id": "6870735f5b15093273df4b5c"
+        }
+      ],
+      "_id": "6870735f5b15093273df4b5b"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "Case Study: AI in Marketing and Advertising",
+      "content": "Learn how brands leverage Google Veo 3 to create personalized ad content that adapts to audience preferences in real-time, optimizing engagement and conversion rates. Discuss key examples from companies like Nike and BMW.",
+      "videoUrl": "http://video.com/MarketingWithAI",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://marketingindustrylive.com/how-ai-is-transforming-advertising/"
+      ],
+      "quizzes": [
+        {
+          "question": "What is one key advantage of using generative AI in advertising?",
+          "options": [
+            "Expensive to Implement",
+            "Ability to personalize content",
+            "Low creative outputs"
+          ],
+          "answer": "Ability to personalize content",
+          "_id": "6870735f5b15093273df4b5e"
+        }
+      ],
+      "_id": "6870735f5b15093273df4b5d"
+    },
+    {
+      "subsectionOrder": 3,
+      "title": "AI in Education: Transforming Learning Experiences",
+      "content": "Discover how Google Veo 3 is used to create educational content that automatically adjusts complexity based on the learner's progress, providing a personalized learning path. Examine case studies from online educational platforms.",
+      "videoUrl": "http://video.com/AIinEducation",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://elearningindustry.com/how-ai-is-transforming-edtech"
+      ],
+      "quizzes": [
+        {
+          "question": "How does generative AI benefit online education?",
+          "options": [
+            "Reduces interaction",
+            "Automates assessments",
+            "Personalizes learning paths"
+          ],
+          "answer": "Personalizes learning paths",
+          "_id": "6870735f5b15093273df4b60"
+        }
+      ],
+      "_id": "6870735f5b15093273df4b5f"
+    },
+    {
+      "subsectionOrder": 4,
+      "title": "Entertainment: Enhancing User Experience with AI",
+      "content": "Explore how Hollywood studios employ generative AI to create dynamic movie trailers and visual effects, elevating storytelling through immersive video technology powered by Google Veo 3.",
+      "videoUrl": "http://video.com/AIinEntertainment",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.hollywoodreporter.com/behind-screen/could-ai-bots-help-improve-hollywood-movie-scripts-1112663"
+      ],
+      "quizzes": [
+        {
+          "question": "What role does AI play in the entertainment industry?",
+          "options": [
+            "Simplifies content creation",
+            "Limits creative direction",
+            "Restricts audience reach"
+          ],
+          "answer": "Simplifies content creation",
+          "_id": "6870735f5b15093273df4b62"
+        }
+      ],
+      "_id": "6870735f5b15093273df4b61"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/AIChangingIndustries"
+  ],
+  "references": [
+    "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/generative-ai-the-next-big-step-in-every-sector/"
+  ]
 }
