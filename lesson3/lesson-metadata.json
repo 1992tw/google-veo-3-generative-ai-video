@@ -1,0 +1,166 @@
+{
+  "id": "687070065b15093273df4aa1",
+  "lessonNumber": 3,
+  "title": "Scripting for Generative Video",
+  "status": "complete",
+  "assignment": {
+    "title": "Create a Basic Generative Script in Google Veo 3",
+    "objective": "Develop a basic script within Google Veo 3 to generate a personalized greeting video.",
+    "expectedCapabilities": [
+      "Understand and apply basic script writing",
+      "Navigate Google Veo 3 scripting tools",
+      "Integrate elements into a coherent video script"
+    ],
+    "submissionInstructions": "Submit a video of your script in action along with the script file within Google Veo 3.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Develop a Custom Script",
+        "description": "Create a script that personalizes video messages using Google Veo 3 scripting tools.",
+        "codeExample": "{\"if\":\"timeOfDay == 'morning'\", \"then\":\"display morningGreeting\"}",
+        "_id": "687070375b15093273df4ad4"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Initialize a New Project",
+            "description": "Open Google Veo 3, create a new project, and label it 'Greeting Script'.",
+            "codeExample": "N/A",
+            "_id": "687070375b15093273df4ad1"
+          },
+          {
+            "taskNumber": 2,
+            "title": "Script Basic Greetings",
+            "description": "Write a script to display a personalized greeting based on viewer's input. Use conditionals to alter the greeting message.",
+            "codeExample": "{\"input\":\"viewer.name\", \"output\":\"Hello, {name}! Welcome to our platform.\"}",
+            "_id": "687070375b15093273df4ad2"
+          },
+          {
+            "taskNumber": 3,
+            "title": "Integrate Visuals and Sound",
+            "description": "Add appropriate visual overlays and sound that enhance the video based on script conditions.",
+            "codeExample": "{\"scene\":2, \"action\":\"overlay sound: greetingSound.mp3\"}",
+            "_id": "687070375b15093273df4ad3"
+          }
+        ],
+        "_id": "687070375b15093273df4ad0"
+      }
+    ],
+    "checklist": [
+      "Project Initialized in Google Veo 3",
+      "Script Written and Saved",
+      "Visuals/Sound Integrated",
+      "Final Output Reviewed"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "What is an essential factor in creating dynamic video scripts?",
+        "options": [
+          "High-quality visuals",
+          "Scripting accuracy",
+          "Solid state memory"
+        ],
+        "answer": "Scripting accuracy",
+        "_id": "687070375b15093273df4ace"
+      },
+      {
+        "question": "How does scripting impact video interaction?",
+        "options": [
+          "Increases file size",
+          "Allows for personalized experiences",
+          "Reduces rendering time"
+        ],
+        "answer": "Allows for personalized experiences",
+        "_id": "687070375b15093273df4acf"
+      }
+    ]
+  },
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "Understanding Generative Scripts",
+      "content": "In generative AI video creation, scripting is pivotal. Scripts define how AI elements interact to form a cohesive narrative. This subsection explores the purpose and components of generative scripts, emphasizing sequence, flow, and logic.",
+      "videoUrl": "http://video.com/generativeScriptingIntro",
+      "codeExamples": [
+        "{\"scene\":1, \"action\":\"pan camera\"}",
+        "{\"if\":\"emotion=='happy'\", \"then\":\"show smile overlay\"}"
+      ],
+      "externalLinks": [
+        "https://en.wikipedia.org/wiki/Generative_AI"
+      ],
+      "quizzes": [
+        {
+          "question": "What is the primary role of a generative script?",
+          "options": [
+            "Manage video rendering",
+            "Define AI interactions",
+            "Process audio tracks"
+          ],
+          "answer": "Define AI interactions",
+          "_id": "687070375b15093273df4ac9"
+        }
+      ],
+      "_id": "687070375b15093273df4ac8"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "Elements of Script Writing in Google Veo 3",
+      "content": "Learn the core elements required when scripting in Google Veo 3. We'll dive into variables, decision trees, and event handling, illustrating each with practical examples that resemble real-world applications.",
+      "videoUrl": "http://video.com/scriptElementsGVe3",
+      "codeExamples": [
+        "{\"variable\":\"mood\", \"type\":\"string\"}",
+        "{\"event\":\"onStart\", \"action\":\"initialize variables\"}"
+      ],
+      "externalLinks": [
+        "https://developers.google.com/veo/3"
+      ],
+      "quizzes": [
+        {
+          "question": "Which element is essential for controlling conditional logic?",
+          "options": [
+            "Variables",
+            "Decision trees",
+            "Loops"
+          ],
+          "answer": "Decision trees",
+          "_id": "687070375b15093273df4acb"
+        }
+      ],
+      "_id": "687070375b15093273df4aca"
+    },
+    {
+      "subsectionOrder": 3,
+      "title": "Practical Script Application",
+      "content": "This section brings theory into practice. We'll create a simple script for a dynamic greeting video using Google Veo 3, demonstrating the impact of scripting on video outcomes.",
+      "videoUrl": "http://video.com/practicalScriptApp",
+      "codeExamples": [
+        "{\"scene\":1, \"text\":\"Welcome to our AI-driven experience\"}",
+        "{\"transition\":\"fade-in\", \"duration\":2}"
+      ],
+      "externalLinks": [],
+      "quizzes": [
+        {
+          "question": "What scripting element changes video flow dynamically?",
+          "options": [
+            "Static text",
+            "Conditional logic",
+            "Audio assets"
+          ],
+          "answer": "Conditional logic",
+          "_id": "687070375b15093273df4acd"
+        }
+      ],
+      "_id": "687070375b15093273df4acc"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/generativeScriptingOverview"
+  ],
+  "references": [
+    "https://www.linktoGoogleVeo3Docs.com"
+  ]
+}
